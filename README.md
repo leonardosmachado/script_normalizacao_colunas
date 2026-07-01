@@ -11,7 +11,7 @@
  Indica o quanto a linha candidata é compatível com o perfil, pontuando de acordo com o padrão dos dados considerados já corretos no dataset.
 
 #4.Gerar Linhas candidatas
- Gera linhas candidatas de acordo com o excesso ou falta de colunas relacionadas ao padrão definido em #1.Leitura e #2.Perfil das Colunas.
+ Gera linhas candidatas de acordo com o excesso ou falta de colunas relacionadas ao padrão definido em "#1.Leitura" e "#2.Perfil das Colunas".
 
 #5.Processar Linhas
  Processa as linhas candidatas selecionadas no processo anterior, concatenando para o excesso de colunas e adicionando valores nulos as colunas corretas nas linhas faltantes.
